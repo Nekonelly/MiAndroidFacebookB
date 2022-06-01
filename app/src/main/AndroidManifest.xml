@@ -29,7 +29,7 @@
             </intent-filter>
         </activity>
 
-        <provider android:authorities="com.facebook.app.FacebookContentProvider1584161708636132"
+        <provider android:authorities="com.facebook.app.FacebookContentProvider586556432691423"
             android:name="com.facebook.FacebookContentProvider"
             android:exported="true" />
 
